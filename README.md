@@ -2,6 +2,8 @@
 
 **MacroOracle — Intelligence MCP Server** — 8 tools | Part of [ToolOracle](https://tooloracle.io)
 
+[![MacroOracle MCP server](https://glama.ai/mcp/servers/ToolOracle/macroooracle/badges/card.svg)](https://glama.ai/mcp/servers/ToolOracle/macroooracle)
+
 ## Connect
 ```bash
 npx -y mcp-remote https://tooloracle.io/macro/mcp/
