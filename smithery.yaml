@@ -1,0 +1,5 @@
+name: MacroOracle
+description: MacroOracle Intelligence MCP
+endpoint: https://tooloracle.io/macro/mcp/
+transport: streamable-http
+license: MIT
