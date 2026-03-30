@@ -1,6 +1,14 @@
 {
   "name": "MacroOracle",
-  "description": "MacroOracle Intelligence MCP",
-  "endpoint": "https://tooloracle.io/macro/mcp/",
-  "transport": "streamable-http"
+  "description": "US Macro Economic Intelligence \u2014 86 FRED series, 20 ECB indicators, World Bank, BLS data via MCP",
+  "repository": "https://github.com/ToolOracle/macroooracle",
+  "endpoint": "https://tooloracle.io/macroo/mcp/",
+  "tools": 22,
+  "license": "MIT",
+  "author": "FeedOracle Technologies",
+  "tags": [
+    "economics",
+    "mcp",
+    "ai-agent"
+  ]
 }
