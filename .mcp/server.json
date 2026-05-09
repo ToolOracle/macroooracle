@@ -5,7 +5,7 @@
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://tooloracle.io/macro/mcp/"
+      "url": "https://tooloracle.io/x402/macro/mcp/"
     }
   ]
 }
